@@ -34,7 +34,7 @@ Summary of the data analysis:
 4. The community areas with high levels of battery and criminal damage have a large overlap, with their highest values in the north west of the city. Theft is most common in a few community areas in the north east.
 5. Predicting arrests is difficult as many different factors play a role. A prediction model simply based on the crime type, community area and date showed to be not reliable enough. However, more sophisticated projects might be able to build a reliable prediction model in combination with more data available from the City of Chicago.
 
-A more detailed description of the results can be found in this <-- link! medium article.
+A more detailed description of the results can be found in [this](https://medium.com/@jannis.lambinus_59666/chicago-crime-a-high-level-data-analysis-85fee892df2) medium article.
 
 ## Acknowledgement
 All data used for this project has been provided by the [data portal](https://data.cityofchicago.org/) of the City of Chicago, in particular the [crime dataset](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2) and the [geojson dataset for community areas](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
