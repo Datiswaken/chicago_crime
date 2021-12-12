@@ -10,7 +10,7 @@ Libraries needed to run the juypter notebook:
 - scikit-learn
 - shapely
 
-The initial dataset can be downloaded here <-- provide link!
+The initial dataset can be downloaded [here](https://drive.google.com/file/d/1ssrshVftiX1bEpm4D7wuPVK2v5jteKw1/view). Size ~1.8 GB
 
 ## Project Motivation
 The City of Chicago provides a lot of publicly available data about the city on their [data portal](https://data.cityofchicago.org/).  
