@@ -20,6 +20,12 @@ For this project I have been interested in crime related data and had a look at 
 3. Where are the most common crimes happening?
 4. Can we reliably predict arrests?
 
+## File Descriptions
+- chicago_community_areas.geojson: This file contains geospatial data about the 77 community areas of Chicago
+- chicago_crimes.ipynb: The jupyter notebook containing the full analysis used to answer above questions
+
+The initial dataset used for this analysis is too big to be uploaded on GitHub (~1.8 GB) but it can be downloaded [here](https://drive.google.com/file/d/1ssrshVftiX1bEpm4D7wuPVK2v5jteKw1/view) or directly at the data portal [here](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+
 ## Results
 Summary of the data analysis:
 1. The total number of crimes has been mostly decreasing since 2003.
