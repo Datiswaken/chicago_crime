@@ -1,7 +1,7 @@
 # Chicago Crime
 
 ## Installation
-Libraries needed to run the juypter notebook:
+Libraries needed to run the jupyter notebook:
 - geopandas
 - geoplot
 - matplotlib
@@ -14,7 +14,7 @@ The initial dataset can be downloaded [here](https://drive.google.com/file/d/1ss
 
 ## Project Motivation
 The City of Chicago provides a lot of publicly available data about the city on their [data portal](https://data.cityofchicago.org/).  
-For this project I have been interested in crime related data and had a look at the following questions:
+For this project I have been interested in crime related data and tried to answer the following questions:
 1. When do crimes happen and how did they develop over the recent years?
 2. What are the most common crimes in each community area?
 3. Where are the most common crimes happening?
@@ -28,7 +28,7 @@ The initial dataset used for this analysis is too big to be uploaded on GitHub (
 
 ## Results
 Summary of the data analysis:
-1. The total number of crimes has been mostly decreasing since 2003.
+1. The total number of crimes has mostly been decreasing since 2003.
 2. There are more crimes happening in the summer compared to the winter and more during day time compared to night time. The day of the week has no significant effect.
 3. Theft, battery and criminal damage are the three most common crime types in Chicago. Offenses with regards to narcotics are less wide spread across the city but have some focus areas in the west and central part of the city.
 4. The community areas with high levels of battery and criminal damage have a large overlap, with their highest values in the north west of the city. Theft is most common in a few community areas in the north east.
